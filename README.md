@@ -23,3 +23,8 @@ Usage: Run this file to start the application and see the pose tracking.
 Purpose: Contains important functions for detecting and tracking skeleton landmarks.
 
 Usage: Imported into AITrainerProject.py.py to provide the core functionalities.
+
+## Libraries Used
+
+1. OpenCV
+2. mediapipe - Provides pre-trained models for pose estimation and other multimodal data processing.
