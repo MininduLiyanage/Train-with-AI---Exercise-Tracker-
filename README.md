@@ -27,6 +27,11 @@ Purpose: Contains important functions for detecting and tracking skeleton landma
 
 Usage: Imported into AITrainerProject.py.py to provide the core functionalities.
 
+  3. posedetectionbasic.py
+
+Purpose: Contains basics related to pose detection with mediapipe.
+
+
 ## Libraries Used
 
 1. OpenCV
