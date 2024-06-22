@@ -4,6 +4,9 @@
 
 This project uses computer vision and machine learning techniques to create an exercise tracking system. By leveraging the power of OpenCV (cv2), MediaPipe (mediapipe), we can track and analyze human exercise movements in real time to provide feedback on exercise form and performance.
 
+![Screenshot (679)](https://github.com/MininduLiyanage/Train-with-AI-Exercise-Tracker-python-openCV/assets/73852035/df2adc6f-ce68-4af8-8e48-58ddd8d0ca58)
+
+
 ## Features
 
 1. Real-Time Pose Detection
