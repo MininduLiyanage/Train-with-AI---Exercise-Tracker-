@@ -1,1 +1,1 @@
-# Train-with-AI---Exercise-Tracker-
+# Train-with-AI-Exercise-Tracker-
